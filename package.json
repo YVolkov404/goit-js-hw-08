@@ -18,6 +18,8 @@
     "url": "https://github.com/YVolkov404/goit-js-hw-08/issues"
   },
   "dependencies": {
+    "@vimeo/player": "^2.20.1",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^2.0.0",
     "simplelightbox": "^2.14.2"
   },
